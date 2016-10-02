@@ -4,7 +4,7 @@
 
 Danh sách sinh viên: 
 **Phạm Văn Hà - 1312162**
-**Dương Giang Sơn - 1312490**
+**Phạm Văn Hà - 1312162**
 
 URL: **Insert your Heroku URL here**
 
@@ -12,10 +12,10 @@ URL: **Insert your Heroku URL here**
 
 Danh sách chức năng **bắt buộc**:
 
-* [] Người dùng có thể tạo bài blog mới.
-* [] Người dùng có thể cập nhật lại nội dung bài blog.
-* [] Người dùng có thể thêm comment vào các bài đăng.
-* [] Sử dụng bootstrap để tạo layout cho trang web. Sử dụng [Bootstrap](https://rubygems.org/gems/bootstrap/versions/4.0.0.alpha3).
+* [*] Người dùng có thể tạo bài blog mới.
+* [*] Người dùng có thể cập nhật lại nội dung bài blog.
+* [*] Người dùng có thể thêm comment vào các bài đăng.
+* [*] Sử dụng bootstrap để tạo layout cho trang web. Sử dụng [Bootstrap](https://rubygems.org/gems/bootstrap/versions/4.0.0.alpha3).
 * [*] Bài đăng sẽ được format bằng markdown. Sử dụng [RedCarpet gem](https://github.com/vmg/redcarpet).
 
 Danh sách chức năng **phụ**:
