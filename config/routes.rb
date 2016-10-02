@@ -1,10 +1,4 @@
 Rails.application.routes.draw do
- # get 'page/home'
-
-  # get 'page/about'
-
- # get 'page/post'
+  get 'posts/index'
   resources :posts
-  root "posts#index"
-  
 end
