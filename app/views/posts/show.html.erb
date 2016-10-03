@@ -2,6 +2,11 @@
 
 <p class="date">	Submitted <%= time_ago_in_words(@post.created_at) %> ago </p>
 
+<<<<<<< HEAD
 <p>	<%= @post.body %> </p>
 <%= link_to "Edit Post", edit_post_path(@post) %>
 <%= link_to "Delete Post", post_path(@post), method: :Delete, data: {confirm: "Are you sure? "} %>
+=======
+<p class="body">	<%= @post.body %> </p>
+<%= link_to "Edit Post", edit_post_path(@post) %>
+>>>>>>> origin/master
