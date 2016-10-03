@@ -52,11 +52,20 @@ Các chuẩn đầu ra cần thực hiện:
 
 Here's a walkthrough of implemented user stories:
 
+<<<<<<< HEAD
+![Video Walkthrough]
+URL:youtobe **https://www.youtube.com/watch?v=G6GRXiJ3cRM**
+
+=======
 ![Video Walkthrough](relative-path-to-your-gif-file-on-github-or-absolute-path-to-file-on-imgur-or-youtube)
 https://www.youtube.com/watch?v=G6GRXiJ3cRM
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<<<<<<< HEAD
 ![alt tag](http://imgur.com/a/Kiema)
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
 
 
 ## Notes
