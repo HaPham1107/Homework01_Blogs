@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
   get 'posts/index'
   resources :posts
-  root 'pots#index'
+  root 'posts#index'
 end
