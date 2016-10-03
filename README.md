@@ -56,6 +56,7 @@ Here's a walkthrough of implemented user stories:
 https://www.youtube.com/watch?v=G6GRXiJ3cRM
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![alt tag](http://imgur.com/a/Kiema)
 
 
 ## Notes
