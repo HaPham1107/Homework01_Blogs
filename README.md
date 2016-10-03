@@ -66,7 +66,7 @@ GIF
 =======
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 <<<<<<< HEAD
-![](http://imgur.com/a/Kiema)
+![alt text](http://imgur.com/a/Kiema)
 =======
 >>>>>>> origin/master
 >>>>>>> origin/master
