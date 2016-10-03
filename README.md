@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=G6GRXiJ3cRM
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 <<<<<<< HEAD
-![alt tag](http://imgur.com/a/Kiema)
+![](http://imgur.com/a/Kiema)
 =======
 >>>>>>> origin/master
 >>>>>>> origin/master
