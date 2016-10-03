@@ -60,7 +60,8 @@ URL:youtobe **https://www.youtube.com/watch?v=G6GRXiJ3cRM**
 ![Video Walkthrough](relative-path-to-your-gif-file-on-github-or-absolute-path-to-file-on-imgur-or-youtube)
 https://www.youtube.com/watch?v=G6GRXiJ3cRM
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF 
+**https://cloud.githubusercontent.com/assets/20856403/19045649/2cfb74aa-89c4-11e6-857e-5189f429301a.gif**
 >>>>>>> origin/master
 
 
